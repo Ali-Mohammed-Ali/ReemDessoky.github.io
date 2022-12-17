@@ -1,0 +1,6 @@
+.title {
+  margin-top: 100px;
+}
+header #mainmenu li .active {
+  color: #0050ff;
+}
