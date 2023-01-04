@@ -4,3 +4,13 @@
 header #mainmenu li .active {
   color: #0050ff;
 }
+
+.coffee-img {
+ width: 200px;
+ margin: auto;
+}
+.coffee-img img {
+max-width: 100%;
+margin-left:300px ;
+margin-top:40px ;
+}
